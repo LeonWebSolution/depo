@@ -705,7 +705,7 @@ summary {
   }
 
   .nav-wrapper.active{
-    display:flex;
+    display: flex;
     right: 0;
     transition: all .5s;
   }
